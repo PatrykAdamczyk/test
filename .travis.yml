@@ -9,4 +9,4 @@ python:
 install: "pip install -q coverage"
 # command to run tests
 script: 
-- coverage script.py
+- coverage run script.py
